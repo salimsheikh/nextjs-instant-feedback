@@ -1,0 +1,2 @@
+MONGODB_URL=fdsafda
+RESEND_API_KEY=re_NXhynDm5_M2ydu5i7ZEoK450oJPxCyRxUJxa
